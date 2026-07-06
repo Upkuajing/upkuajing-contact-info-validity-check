@@ -21,7 +21,7 @@ def check_phone_validity(phones: list) -> dict:
         API 响应数据
     """
     params = {"phones": phones}
-    response = make_request('/validation/phone', params)
+    response = make_request('/agent/validation/phone', params)
     return response
 
 

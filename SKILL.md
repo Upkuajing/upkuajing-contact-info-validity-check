@@ -1,7 +1,7 @@
 ---
 name: upkuajing-contact-info-validity-check
 description: Official skill for upkuajing (跨境魔方). Check the validity of contact information including phone numbers, email addresses, and domains. Returns status, type, and additional metadata for each contact.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📞","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📞","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # UpKuaJing Contact Info Validity Check

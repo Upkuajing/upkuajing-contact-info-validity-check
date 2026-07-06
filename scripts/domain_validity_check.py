@@ -21,7 +21,7 @@ def check_domain_validity(domains: list) -> dict:
         API 响应数据
     """
     params = {"domains": domains}
-    response = make_request('/validation/domain', params)
+    response = make_request('/agent/validation/domain', params)
     return response
 
 

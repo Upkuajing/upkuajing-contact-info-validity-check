@@ -21,7 +21,7 @@ def check_email_validity(emails: list) -> dict:
         API 响应数据
     """
     params = {"emails": emails}
-    response = make_request('/validation/email', params)
+    response = make_request('/agent/validation/email', params)
     return response
 
 
