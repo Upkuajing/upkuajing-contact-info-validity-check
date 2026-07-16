@@ -1,7 +1,7 @@
 ---
 name: upkuajing-contact-info-validity-check
 description: "Verify phone numbers, WhatsApp status, emails and website domains. Cut email bounce rates through CRM data cleansing. Help exporters and recruiters clean contact lists before cold‑email sending and buyer verification.\n\nTrigger: email validation, phone number checker, WhatsApp status verify, domain verification, CRM data cleansing, email list scrubbing, reduce email bounce rate"
-metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📞","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.3","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📞","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # UpKuaJing Contact Info Validity Check
